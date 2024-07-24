@@ -102,7 +102,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 1675,
+      "exp": 1732,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -448,7 +448,7 @@
       "lastrampok": 0,
       "lastsda": 0,
       "lastwar": 0,
-      "spam": 0,
+      "spam": 1721832316346,
       "pancing": 0,
       "pertambangan": 0,
       "pertanian": 0,
@@ -31581,6 +31581,12 @@
       "success": 7,
       "last": 1720904307485,
       "lastSuccess": 1720904307485
+    },
+    "s-ok.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1721832316346,
+      "lastSuccess": 1721832316346
     }
   },
   "msgs": {},
